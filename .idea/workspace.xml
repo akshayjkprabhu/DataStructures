@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e0f2270-ee97-404c-915d-46aff597495f" name="Changes" comment="First Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/queues/circularqueue/CircularQueue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/queues/circularqueue/QueueTest.kt" afterDir="false" />
+    <list default="true" id="1e0f2270-ee97-404c-915d-46aff597495f" name="Changes" comment="Missed commits">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hashtable/hashset/simple/QueExecutor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/hashtable/hashset/simple/SimpleHashSet.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -38,13 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Kotlin.QueExecutorKt">
+    <configuration name="QueExecutorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashtable.hashset.simple.QueExecutorKt" />
+      <module name="DataStructures.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QueueTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queues.circularqueue.QueueTestKt" />
       <module name="DataStructures.main" />
@@ -54,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.QueExecutorKt" />
         <item itemvalue="Kotlin.QueueTestKt" />
       </list>
     </recent_temporary>
@@ -74,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656576305532</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementing CircularQueue.kt">
+      <created>1656604968526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656604968526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Missed commits">
+      <created>1656605004815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656605004815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="Implementing CircularQueue.kt" />
+    <MESSAGE value="Missed commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Missed commits" />
   </component>
 </project>
